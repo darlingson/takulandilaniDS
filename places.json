@@ -54,5 +54,12 @@
         "description": "Nkhotakota Wildlife Reserve, to the east of Central Malawi and near Lake Malawi, is one of the two large wildlife areas offering safaris in this region. Its vast 700 sq miles (1800 sq km) is of rugged terrain crossed by a number of rivers which tumble down the edge of the Rift Valley escarpment as they make their ways to the Lake. Most of the reserve is miombo woodland with large patches of tall grasses and occasional areas of rainforest.  Birdlife is prolific with giant kingfishers and palm nut vultures among the 130 recorded species. This is a wonderful example of true, rugged, untouched wilderness. In the past the reserve proved difficult to access because of the lack of roads or driveable tracks. Although there were animals in Nkhotakota, the terrain and difficult access made them difficult to find. However, the management of the reserve passed into the hands of African Parks in 2015 and they are making rapid progress carrying out their plans to protect and further develop Nkhotakota. One of the largest elephant translocations in human history took place during 2016/17 with 500 elephants being brought in to Nkhotakota. Over half that number were successfully moved in 2016, as part of a total influx of over 1500 game animals, with the reminder brought in the following year. A sanctuary has been established and the reserve has been fully fenced to ensure the long term survival of all the animals in this rapidly developing reserve",
         "district": "Nkhotakota",
         "location": "Tongole"
+    },
+    {
+        "link":"https://whc.unesco.org/en/list/476/",
+        "name":"Chongoni Rock Art Area",
+        "description":"Situated within a cluster of forested granite hills and covering an area of 126.4 km2, high up the plateau of central Malawi, the 127 sites of this area feature the richest concentration of rock art in Central Africa. They reflect the comparatively scarce tradition of farmer rock art, as well as paintings by BaTwa hunter-gatherers who inhabited the area from the late Stone Age. The Chewa agriculturalists, whose ancestors lived there from the late Iron Age, practised rock painting until well into the 20th century. The symbols in the rock art, which are strongly associated with women, still have cultural relevance amongst the Chewa, and the sites are actively associated with ceremonies and rituals."
+        "district":"dedza",
+        "location":"chongoni"
     }
 ]
