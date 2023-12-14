@@ -14,9 +14,7 @@
             "avg_review": 0,
             "phone": "+2651789888",
             "email": "",
-            "call_button": "yes",
-            "email_button": "yes",
-            "sms_button": "yes",
+
             "address": "Chilembwe Road, P.O. Box 31489 Lilongwe 3",
             "city": "Lilongwe",
             "state": "",
@@ -63,9 +61,7 @@
             "avg_review": 0,
             "phone": "+265-1-820-588",
             "email": "",
-            "call_button": "yes",
-            "email_button": "yes",
-            "sms_button": "yes",
+
             "address": "",
             "city": "Salima",
             "state": "",
@@ -7418,9 +7414,7 @@
             "email": "",
             "web": "www.sunbirdmalawi.com",
             
-            "call_button": "yes",
-            "email_button": "yes",
-            "sms_button": "yes",
+
             "address": "",
             "city": "Mangochi",
             "country": "MALAWI",
@@ -7441,9 +7435,7 @@
             "email": "",
             "web": "www.sunbirdmalawi.com",
             
-            "call_button": "yes",
-            "email_button": "yes",
-            "sms_button": "yes",
+
             "address": "",
             "city": "Salima",
             "country": "MALAWI",
