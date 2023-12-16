@@ -9,14 +9,14 @@
         ],
         "review_show": "yes",
         "avg_review": 0,
-        "phone": "",
+        "phone": "01 755 342 / 599 / 585",
         "web": "",
-        "email": "kelvin@visitmalawi.mw",
+        "email": "contitravel@globemw.net",
         "dir_top_img": "no",
         "call_button": "no",
         "email_button": "yes",
         "sms_button": "no",
-        "address": "",
+        "address": "CENTRE HOUSE ARCADE, ROBERT MUGABE CRESENT, P. O. BOX 31126, CAPITAL CITY, LILONGWE, LILONGWE, MALAWI",
         "city": "Lilongwe",
         "country": "MALAWI",
         "location": "Lilongwe"
@@ -25,15 +25,15 @@
         "id": 4418,
         "link": "https://visitmalawi.mw/index.php/directories/midland-tours-and-travel/",
         "title": "Midland Tours and Travel",
-        "imageURL": "https://visitmalawi.mw/wp-content/uploads/2022/09/image-cover2.jpg",
+        "imageURL": "https://lh3.googleusercontent.com/p/AF1QipMZgyT9WpK9UwkHCINs6i0-frUA-xnHQwd-_Bst=s1534-w1534-h1456-rw",
         "category": [
             "Travel and Tours"
         ],
         "review_show": "yes",
         "avg_review": 0,
-        "phone": "",
+        "phone": "+2651752250/1752251/mobile +265999110934",
         "web": "",
-        "email": "kelvin@visitmalawi.mw",
+        "email": "nfo@midlandtravelmw.com;pandoribrahim86@gmail.com",
         "dir_top_img": "no",
         "call_button": "no",
         "email_button": "yes",
@@ -43,11 +43,11 @@
         "state": "Northern Region",
         "area": "Area 4",
         "country": "MALAWI",
-        "location": "Lilongwe"
+        "location": "2QFF+W7 Lilongwe"
     },
     {
         "id": 4415,
-        "link": "https://visitmalawi.mw/index.php/directories/waheguru-travel/",
+        "link": "http://www.wahegurutravels.com/",
         "title": "Waheguru Travel",
         "imageURL": "https://visitmalawi.mw/wp-content/uploads/2022/09/image-cover2.jpg",
         "category": [
@@ -55,8 +55,8 @@
         ],
         "review_show": "yes",
         "avg_review": 0,
-        "phone": "",
-        "web": "",
+        "phone": "0997722227",
+        "web": "http://www.wahegurutravels.com/",
         "email": "kelvin@visitmalawi.mw",
         "dir_top_img": "no",
         "call_button": "no",
@@ -85,7 +85,8 @@
         "sms_button": "no",
         "address": "",
         "city": "",
-        "country": "MALAWI"
+        "country": "MALAWI",
+        "location":"2Q93+VP2, Lilongwe"
     },
     {
         "id": 4411,
@@ -121,9 +122,9 @@
         ],
         "review_show": "yes",
         "avg_review": 0,
-        "phone": "",
+        "phone": "01 772 814 / 011 173 5076 /099 917 4401 / 088 819 3121",
         "web": "",
-        "email": "kelvin@visitmalawi.mw",
+        "email": "travel@travelnetntours.com",
         "dir_top_img": "no",
         "call_button": "no",
         "email_button": "yes",
@@ -132,7 +133,7 @@
         "city": "Lilongwe",
         "state": "Central Region",
         "country": "MALAWI",
-        "location": "Lilongwe"
+        "location":"OPP. NEW FINANCE BANK, NASRA BUILDING, 2ND FLOOR P. O. BOX 30908, LILONGWE 3, LILONGWE, MALAWI"
     },
     {
         "id": 4400,
@@ -144,16 +145,17 @@
         ],
         "review_show": "yes",
         "avg_review": 0,
-        "phone": "",
-        "web": "",
+        "phone": "265 1 830 166/209",
+        "web": "https://ultimatetravel.mw/",
         "email": "kelvin@visitmalawi.mw",
         "dir_top_img": "no",
         "call_button": "no",
         "email_button": "yes",
         "sms_button": "no",
         "address": "",
-        "city": "",
-        "country": "MALAWI"
+        "city": "Blantyre",
+        "country": "MALAWI",
+        "location":"Development House Ground Floor,Victoria Avenue Blantyre, Malawi"
     },
     {
         "id": 4398,
