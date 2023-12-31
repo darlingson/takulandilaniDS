@@ -61,5 +61,12 @@
         "description":"Situated within a cluster of forested granite hills and covering an area of 126.4 km2, high up the plateau of central Malawi, the 127 sites of this area feature the richest concentration of rock art in Central Africa. They reflect the comparatively scarce tradition of farmer rock art, as well as paintings by BaTwa hunter-gatherers who inhabited the area from the late Stone Age. The Chewa agriculturalists, whose ancestors lived there from the late Iron Age, practised rock painting until well into the 20th century. The symbols in the rock art, which are strongly associated with women, still have cultural relevance amongst the Chewa, and the sites are actively associated with ceremonies and rituals.",
         "district":"dedza",
         "location":"chongoni"
+    },
+    {
+        "link": "https://www.malawitourism.com/regions/south-malawi/mount-mulanje/",
+        "name":"Mount Mulanje: Malawi's Hiking Region",
+        "description": "At just over 3 000m, Mount Mulanje is Central Africa’s highest peak. This granite mountain range is where to go in Malawi for a fantastic hiking experience and sensational views of the surrounds. Situated just 65 km east of Blantyre, Mount Mulanje is host to a network of trails winding through tea plantations and cedar tree forests, as well as spectacular waterfalls tumbling into icy rock pools – perfect for a refreshing dip! Hiking here can be quite challenging, so you’ll need a reasonable level of fitness and decent walking shoes.",
+        "district":"Mulanje",
+        "location":"Mulanje Massif"
     }
 ]
