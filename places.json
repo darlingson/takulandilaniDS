@@ -68,5 +68,41 @@
         "description": "At just over 3 000m, Mount Mulanje is Central Africa’s highest peak. This granite mountain range is where to go in Malawi for a fantastic hiking experience and sensational views of the surrounds. Situated just 65 km east of Blantyre, Mount Mulanje is host to a network of trails winding through tea plantations and cedar tree forests, as well as spectacular waterfalls tumbling into icy rock pools – perfect for a refreshing dip! Hiking here can be quite challenging, so you’ll need a reasonable level of fitness and decent walking shoes.",
         "district":"Mulanje",
         "location":"Mulanje Massif"
+    },
+    {
+        "link":"https://www.malawitourism.com/regions/south-malawi/zomba-plateau/",
+        "name":"Zomba Plateau: Forest Trails & Phenomenal Views",
+        "description":"Malawi’s Zomba Plateau is unique. A great slab of a mountain standing at 1,800 m (6,000ft), and with peaks topping 2,000 m, it has vast tracts of cedar, pine and cypress but elsewhere the vegetation is wild and mixed. On three sides, the plateau has scarp-like edges descending from its outer rim of peaks that surround a central depression. As well as the forests, the plateau top is criss-crossed by streams and there are tumbling waterfalls and still lakes. There are roads right round the top which give access to viewpoints that offer vistas of such splendour that they were described in colonial times as “the best views in the British Empire”. The roads around the plateau are dirt roads used mostly by logging trucks and so require a 4×4 to navigate, but the road up to the top from Zomba Town is a good tar road accessible to all. Once on top of the plateau, there is plenty of hiking, trekking and walking through the forests, alongside the streams and to connect the viewpoints around the edge.",
+        "district":"Zomba",
+        "location":"Zomba Massif"
+    },
+    {
+        "link":"https://www.tripadvisor.com/Attraction_Review-g319717-d12704017-Reviews-Shire_Eco_Safari_Camp-Liwonde_National_Park_Southern_Region.html",
+        "name":"Shire Eco Safari Camp",
+        "description":"This safari camp, located beside Liwonde National Park and the western bank of the Shire River, holds the distinction of being owned and operated by Malawians. Enjoy game drives, boat safaris, and viewing the night sky with a Dobsian telescope--the only one found in Malawi!",
+        "district":"Machinga",
+        "location":"Liwonde"
+    },
+    {
+        "link":"https://www.tripadvisor.com/Attraction_Review-g293811-d4756504-Reviews-Kumbali_Cultural_Village-Lilongwe_Central_Region.html",
+        "name":"Kumbali Cultural Village",
+        "description":"Kumbali Cultural Village is a showcase of Malawian culture, arts, music, cuisine and crafts. There are 12 traditional huts for accommodation and an open bar & restaurant. Activities include weekly volleyball & football tournaments as well as live music.",
+        "district":"Lilongwe",
+        "location":"Kumbali"
+    },
+    {
+        "link":"https://malawiplus.com/nkhoma-mountain/",
+        "name":"Nkhoma Mountain",
+        "description":"Nkhoma Mountain has two visible peaks: Nkhoma and Mbalambala. This formation earned it the local name Phiri La Mitu Iwiri meaning “the two-headed mountain”. Nkhoma Peak, considered the true summit, rises to 1743 m (5718 ft) above sea level, and this is the side where hiking and camping usually happens, when approaching the mountain from the south. If you are going hiking for the day, then best place to park is the Mission Hospital or the CCAP Church, and remember to tell guards to watch over your vehicle.",
+        "district":"Lilongwe",
+        "location":"Mazengela"
+
+    },
+    {
+        "link":"https://malawiplus.com/memorial-tower/",
+        "name":"World War 1 Memorial tower",
+        "description":"Located at the centre of Lilongwe between the Capital Hill and Area 18 Filling Station, the memorial tower is set in the same compound as a statue of the first president of Malawi, Dr. Hastings Kamuzu Banda.The monument was constructed in honour of all soldiers and civilians who died during the First and Second World Wars and other military operations both within and outside Malawi.You can find staff who are very informative with lots of local stories and they can guide you to the top of the tower.There is no lift in the tower, so you need to go up a long flight of stairs and thrilling ladders.The view from the top is the one of the best viewing points of the city in Lilongwe.You can see Capital Hill, Parliament, Bunda Mountain, Ngala Mountain and even Bingu Stadium.There is no entrance fee, but a tip is expected when going up to the clock tower.",
+        "district":"Lilongwe",
+        "location":"Lilongwe area 18"
     }
 ]
